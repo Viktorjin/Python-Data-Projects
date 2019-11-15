@@ -1,0 +1,2 @@
+This is a Python data visulization project. We used pandas package to create plot within jupyternotebook which is different in matplotlib. 
+The porject only cover the tips of the iceburg for what pandas can do in data visualization. For documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
